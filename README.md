@@ -9,18 +9,17 @@ Nessa atividade,vamos evoluir o projeto para que a home-page funcione bem tanto 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Gabriel Mota Valério
+- Matricula: 918995
+- Proposta de projeto escolhida: 4.Coleções e Itens
+- Breve descrição sobre seu projeto: Galeria de Informações do Clube Atlético Mineiro, jogadores titulares, titulos, história, Criadores e Contato
 
 ## Print da versão responsiva com CSS puro [DESKTOP]
 
-<<  COLOQUE A IMAGEM AQUI >>
-
+!["Tela Desktop](/public/images/TelaComputador.jpg)
 ## Print da versão responsiva com CSS puro [MOBILE] (*)
 
-<<  COLOQUE A IMAGEM AQUI >>
+!["Tela Mobile"](/public/images/TelaCelular.jpg)
 
 
 (*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
